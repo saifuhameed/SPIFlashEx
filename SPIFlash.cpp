@@ -1,4 +1,5 @@
 // Copyright (c) 2013-2015 by Felix Rusu, LowPowerLab.com
+// Extended by Saifudheen saifuhameed@gmail.com
 // SPI Flash memory library for arduino/moteino.
 // This works with 256byte/page SPI flash memory
 // For instance a 4MBit (512Kbyte) flash chip will have 2048 pages: 256*2048 = 524288 bytes (512Kbytes)
